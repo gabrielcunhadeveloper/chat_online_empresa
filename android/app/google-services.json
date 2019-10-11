@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023561630063",
+    "firebase_url": "https://chatonlineempresa.firebaseio.com",
+    "project_id": "chatonlineempresa",
+    "storage_bucket": "chatonlineempresa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023561630063:android:3cc205608beeeaff33e89a",
+        "android_client_info": {
+          "package_name": "br.com.gabrielcunha.chat_online_empresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023561630063-tqkrpoj4lgh50qpgl7o8d7mu7dun0cjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gabrielcunha.chat_online_empresa",
+            "certificate_hash": "cba7f761cfcbdd52e5ea4f027c9c206efa8cbbfd"
+          }
+        },
+        {
+          "client_id": "1023561630063-t8a6uponk3tf8k30k3jdl0rbopdlv8vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uBct8uihnRBG54a7HHEXu2lcD8Pqgl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023561630063-t8a6uponk3tf8k30k3jdl0rbopdlv8vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
