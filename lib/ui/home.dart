@@ -63,12 +63,10 @@ class _HomePageState extends State<HomePage> {
         body: Column(
           children: <Widget>[
             Expanded(
-              child: ListView(
-                children: <Widget>[
-                  ChatMessage(),
-                  ChatMessage(),
-                  ChatMessage(),
-                ],
+              child: StreamBuilder(
+                builder: (context, snapshot) {
+
+                },
               ),
             ),
             Divider(
